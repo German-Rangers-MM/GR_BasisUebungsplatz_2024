@@ -6,45 +6,15 @@
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 [
-	"CUP_arifle_G36A_RIS",
-	"CUP_arifle_G36A_RIS_camo",
-	"CUP_arifle_G36A_RIS_wdl",
-	"CUP_arifle_G36A3",
-	"CUP_arifle_G36A3_camo",
-	"CUP_arifle_G36A3_wdl",
-	"CUP_arifle_G36K_RIS",
-	"CUP_arifle_G36K_RIS_camo",
-	"CUP_arifle_G36K_RIS_wdl",
-	"CUP_arifle_G36KA3",
-	"CUP_arifle_G36KA3_afg_camo",
-	"CUP_arifle_G36KA3_afg_wdl",
-	"CUP_arifle_G36C",
-	"CUP_arifle_G36C_camo",
-	"CUP_arifle_G36C_wdl",
-	"CUP_arifle_G36CA3",
-	"CUP_arifle_G36CA3_camo",
-	"CUP_arifle_G36CA3_wdl",
 	"CUP_arifle_AG36",
 	"CUP_arifle_G36A_AG36_RIS_camo",
 	"CUP_arifle_G36A_AG36_RIS_wdl",
 	"CUP_arifle_G36A3_AG36",
 	"CUP_arifle_G36A3_AG36_camo",
-	"CUP_arifle_G36A3_AG36_wdl",
-	"CUP_arifle_HK416_Black",
-	"CUP_arifle_HK416_Desert",
-	"CUP_arifle_HK416_Wood",
-	"CUP_arifle_HK416_CQB_Black",
-	"CUP_arifle_HK416_CQB_Desert",
-	"CUP_arifle_HK416_CQB_Wood",
-	"CUP_arifle_HK416_CQB_AG36",
-	"CUP_arifle_HK416_CQB_AG36_Desert",
-	"CUP_arifle_HK416_CQB_AG36_Wood",
+	"CUP_arifle_G36A3_AG36_wdl",	
 	"CUP_arifle_HK416_AGL_Black",
 	"CUP_arifle_HK416_AGL_Desert",
-	"CUP_arifle_HK416_AGL_Wood",
-	"CUP_arifle_HK417_12",
-	"CUP_arifle_HK417_12_Desert",
-	"CUP_arifle_HK417_12_Wood",
+	"CUP_arifle_HK416_AGL_Wood",	
 	"CUP_arifle_HK417_12_AG36",
 	"CUP_arifle_HK417_12_AG36_Desert",
 	"CUP_arifle_HK417_12_AG36_Wood",	
@@ -135,8 +105,7 @@
 //
 //------------------------------------------------------------------
 //------------------------------------------------------------------
-	"CUP_launch_HCPF3",
-	"CUP_launch_M72A6",
+
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -171,13 +140,13 @@
 //
 //------------------------------------------------------------------
 //------------------------------------------------------------------
-	"CUP_V_B_GER_PVest_Fleck_TL",
-	"CUP_V_B_GER_PVest_Trop_TL",
-	"CUP_V_B_GER_PVest_Fleck_TL_LT",
-	"CUP_V_B_GER_PVest_Trop_TL_LT",
+	"CUP_V_B_GER_PVest_Fleck_RFL",
+	"CUP_V_B_GER_PVest_Trop_RFL",
+	"CUP_V_B_GER_PVest_Fleck_RFL_LT",
+	"CUP_V_B_GER_PVest_Trop_RFL_LT",
 	"GRE_PlateCarrier1_Flecktarn",
 	"GRE_PlateCarrier1_Tropentarn",
-	"V_Chestrig_rgr",			  
+	"V_Chestrig_rgr",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -248,6 +217,7 @@
 	"CUP_G_Scarf_Face_Grn",
 	"CUP_G_Scarf_Face_Tan",
 	"CUP_G_Oakleys_Drk",
+	"CUP_G_TK_RoundGlasses",
 	"CUP_G_Grn_Scarf_Shades",
 	"CUP_G_Tan_Scarf_Shades",
 	"G_Shades_Black",
@@ -285,10 +255,6 @@
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 	"ItemMap",
-	
-	"ItemAndroid",
-	"ItemMicroDAGR",
-	"ItemGPS",
 
 	"TFAR_anprc152",
 
@@ -321,8 +287,6 @@
 	"CUP_20Rnd_TE1_Red_Tracer_762x51_HK417",
 	"CUP_17Rnd_9x19_M17_Black",
 	"CUP_21Rnd_9x19_M17_Black",
-	"CUP_1Rnd_HE_M203",
-	"CUP_1Rnd_HEDP_M203",
 	"UGL_FlareWhite_F",
 	"UGL_FlareGreen_F",
 	"UGL_FlareRed_F",
@@ -345,21 +309,6 @@
 	"SmokeShellOrange",
 	"SmokeShellBlue",
 	"CUP_HandGrenade_M67",
-	"Chemlight_blue",
-	"ACE_Chemlight_HiBlue",
-	"Chemlight_green",
-	"ACE_Chemlight_HiGreen",
-	"ACE_Chemlight_IR",
-	"ACE_Chemlight_Orange",
-	"ACE_Chemlight_UltraHiOrange",
-	"ACE_Chemlight_White",
-	"ACE_Chemlight_HiWhite",
-	"ACE_Chemlight_HiYellow",
-	"Chemlight_red",
-	"ACE_Chemlight_HiRed",
-	"B_IR_Grenade",
-	"ACE_HandFlare_Red",
-	"ACE_HandFlare_Green",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -367,7 +316,7 @@
 //
 //------------------------------------------------------------------
 //------------------------------------------------------------------
-	"DemoCharge_Remote_Mag",
+
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -375,16 +324,43 @@
 //
 //------------------------------------------------------------------
 //------------------------------------------------------------------
+	"ACE_adenosine",
 	"ACE_fieldDressing",
 	"ACE_elasticBandage",
 	"ACE_packingBandage",
 	"ACE_quikclot",
+	"ACE_bodyBag",
+	"ACE_epinephrine",
 	"ACE_morphine",
 	"ACE_salineIV_500",
 	"ACE_salineIV",
 	"ACE_splint",
+	"ACE_surgicalKit",
 	"ACE_tourniquet",
+	"kat_IV_16",
+	"kat_accuvac",
+	"kat_X_AED",
+	"kat_amiodarone",
+	"kat_CarbonateItem",
+	"kat_atropine",
+	"kat_AED",
+	"kat_BVM",
+	"kat_CaffeineItem",
 	"kat_chestSeal",
+	"kat_EACA",
+	"kat_IO_FAST",
+	"kat_fentanyl",
+	"kat_ketamine",
+	"kat_larynx",
+	"kat_naloxone",
+	"kat_nitroglycerin",
+	"kat_PainkillerItem",
+	"kat_PenthroxItem",
+	"kat_pocketBVM",
+	"kat_oxygenTank_150_Item",
+	"kat_oxygenTank_300_Item",
+	"kat_Pulseoximeter",
+	"kat_TXA",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -393,11 +369,10 @@
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 	"ACE_EntrenchingTool",
-	"ACE_Clacker",
-	"ACE_M26_Clacker",
 	"ACE_Flashlight_XL50",
 	"ACE_MapTools",
 	"ACE_wirecutter",
+	"Attachable_Helistretcher",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -408,5 +383,15 @@
 	"ACE_CableTie",
 	"ACE_EarPlugs",
 	"ACE_IR_Strobe_Item",
-	"ItemcTabHCam"
+	"ace_marker_flags_black",
+	"ace_marker_flags_blue",
+	"ace_marker_flags_black",
+	"ace_marker_flags_orange",
+	"ace_marker_flags_purple",
+	"ace_marker_flags_red",
+	"ace_marker_flags_white",
+	"ace_marker_flags_yellow",
+	"ItemcTabHCam",
+	"kat_gasmaskFilter",
+	"kat_sealant"
 ];

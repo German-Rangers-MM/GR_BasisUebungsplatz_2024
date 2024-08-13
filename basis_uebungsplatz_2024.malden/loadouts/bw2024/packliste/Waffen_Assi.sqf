@@ -189,6 +189,7 @@
 	"CUP_V_B_GER_PVest_Trop_RFL_LT",
 	"GRE_PlateCarrier1_Flecktarn",
 	"GRE_PlateCarrier1_Tropentarn",
+	"V_Chestrig_rgr",			  
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -439,6 +440,7 @@
 	"ACE_EntrenchingTool",
 	"ACE_Fortify",
 	"ACE_Clacker",
+	"ACE_M26_Clacker",
 	"ACE_Flashlight_XL50",
 	"ACE_MapTools",
 	"ACE_PlottingBoard",

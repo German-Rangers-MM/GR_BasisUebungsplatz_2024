@@ -41,6 +41,7 @@
 	"CUP_smg_MP5A5",
 	"SMG_05_F",
 	"CUP_smg_MP7",
+	"CUP_lmg_Mk48_nohg",
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -195,6 +196,7 @@
 	"CUP_V_B_GER_PVest_Trop_RFL_LT",
 	"GRE_PlateCarrier1_Flecktarn",
 	"GRE_PlateCarrier1_Tropentarn",
+	"V_Chestrig_rgr",			  
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -355,6 +357,7 @@
 	"CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag",
 	"CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag_camo",
 	"CUP_100Rnd_TE1_Red_Tracer_556x45_BetaCMag_wdl",
+	"CUP_100Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",
 	"CUP_200Rnd_TE1_LRT4_Red_Tracer_762x51_Belt_M",
 	"CUP_120Rnd_TE4_LRT4_Red_Tracer_762x51_Belt_M",
 	"130Rnd_338_Mag",
@@ -389,6 +392,7 @@
 	"ACE_1Rnd_82mm_Mo_Illum",
 	"ACE_1Rnd_82mm_Mo_Smoke",
 	"ACE_1Rnd_82mm_Mo_HE_LaserGuided",
+
 //------------------------------------------------------------------
 //------------------------------------------------------------------
 //
@@ -443,6 +447,7 @@
 	"ACE_EntrenchingTool",
 	"ACE_Fortify",
 	"ACE_Clacker",
+	"ACE_M26_Clacker",
 	"ACE_Flashlight_XL50",
 	"ACE_MapTools",
 	"ACE_PlottingBoard",
